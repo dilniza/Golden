@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Droid Serif Italic';
+    src: url(./DroidSerif-Italic.woff2) format('woff2'),
+        url(./DroidSerif-Italic.woff) format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Droid Serif Bolditalic';
+    src: url(./DroidSerif-BoldItalic.woff2) format('woff2'),
+        url(./DroidSerif-BoldItalic.woff) format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat Bold';
+    src: url(./Montserrat-Bold.woff2) format('woff2'),
+        url(./Montserrat-Bold.woff) format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat Bolditalic';
+    src: url(./Montserrat-BoldItalic.woff2) format('woff2'),
+        url(./Montserrat-BoldItalic.woff) format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat Italic';
+    src: url(./Montserrat-Italic.woff2) format('woff2'),
+        url(./Montserrat-Italic.woff) format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab Bold';
+    src: url(./RobotoSlab-Bold.woff2) format('woff2'),
+        url(./RobotoSlab-Bold.woff) format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab Regular';
+    src: url(./RobotoSlab-Regular.woff2) format('woff2'),
+        url(./RobotoSlab-Regular.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Wisdom Script';
+    src: url(./Wisdom-Script.woff2) format('woff2'),
+        url(./Wisdom-Script.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat Regular';
+    src: url(./Montserrat-Regular.woff2) format('woff2'),
+        url(./Montserrat-Regular.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
